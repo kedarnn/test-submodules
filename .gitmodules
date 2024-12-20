@@ -1,0 +1,3 @@
+[submodule "lobster"]
+	path = lobster
+	url = git@github.com:bmw-software-engineering/lobster.git
