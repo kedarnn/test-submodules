@@ -1,3 +1,6 @@
 [submodule "lobster"]
 	path = lobster
 	url = git@github.com:bmw-software-engineering/lobster.git
+[submodule "demo-submodules/lobster-demo"]
+	path = demo-submodules/lobster-demo
+	url = git@github.com:bmw-software-engineering/lobster-demo.git
